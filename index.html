@@ -1,0 +1,80 @@
+﻿<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Strategy Presentation</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="sidebar" id="sidebar">
+        <div class="sidebar__header">
+          <p class="eyebrow">StoryOS-style previewer</p>
+          <h1 id="deckTitle">Strategy Presentation</h1>
+          <p id="deckSubtitle" class="sidebar__subtitle"></p>
+        </div>
+        <div id="slideList" class="slide-list" aria-label="Slide list"></div>
+      </aside>
+
+      <main class="stage-shell">
+        <header class="toolbar">
+          <div>
+            <p id="clientName" class="eyebrow"></p>
+            <p id="deckMeta" class="toolbar__meta"></p>
+          </div>
+          <div class="toolbar__actions">
+            <button id="notesToggle" class="button button--ghost" type="button">Toggle notes</button>
+            <button id="modeToggle" class="button button--ghost" type="button">Audience mode</button>
+            <button id="fullscreenToggle" class="button" type="button">Fullscreen</button>
+          </div>
+        </header>
+
+        <section class="progress">
+          <div id="progressBar" class="progress__bar"></div>
+        </section>
+
+        <section class="stage" id="stage" aria-live="polite">
+          <div class="slide-card">
+            <p id="slideKicker" class="slide__kicker"></p>
+            <div class="slide__header">
+              <div>
+                <p id="slideIndex" class="slide__index"></p>
+                <h2 id="slideTitle" class="slide__title"></h2>
+              </div>
+              <p id="slideTag" class="slide__tag"></p>
+            </div>
+            <p id="slideSummary" class="slide__summary"></p>
+            <div id="slideBullets" class="chip-grid"></div>
+            <div id="slideEvidence" class="evidence-grid"></div>
+            <div class="slide__footer">
+              <div>
+                <p class="footer-label">Source docs</p>
+                <div id="slideSources" class="source-list"></div>
+              </div>
+              <div>
+                <p class="footer-label">Presenter CTA</p>
+                <p id="slideCta" class="slide__cta"></p>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section class="nav">
+          <button id="prevButton" class="button button--ghost" type="button">Previous</button>
+          <button id="nextButton" class="button" type="button">Next</button>
+        </section>
+      </main>
+
+      <aside class="notes-panel" id="notesPanel">
+        <div class="notes-panel__header">
+          <p class="eyebrow">Speaker notes</p>
+          <p id="notesHint" class="notes-panel__hint">Use left/right arrows to navigate.</p>
+        </div>
+        <p id="speakerNotes" class="notes-panel__body"></p>
+      </aside>
+    </div>
+
+    <script src="./app.js" defer></script>
+  </body>
+</html>
