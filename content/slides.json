@@ -4,317 +4,317 @@
     "subtitle": "نظام نمو قائم على الثقة للمصريين المقيمين في السعودية",
     "clientName": "بَسّقات",
     "presenter": "Admireworks",
-    "lastUpdated": "2026-03-14"
+    "lastUpdated": "2026-03-15"
   },
   "slides": [
     {
       "id": 1,
       "kicker": "الغلاف",
-      "title": "بَسّقات لازم تدخل السوق كأول براند زراعي بيوريك قبل ما يبيعلك",
-      "tag": "الإطار الافتتاحي",
-      "summary": "الاستراتيجية دي بتبني نظام نمو قائم على الثقة — بيحوّل المصريين المقيمين في السعودية اللي عندهم تحفظ وشك إلى محادثات واتساب مؤهلة — عن طريق عمليات موثقة ومساءلة المؤسس وتوجيه إنساني هادئ بدل الوعود المبالغ فيها.",
+      "title": "بَسّقات | نوريك قبل ما نسألك",
+      "tag": "استراتيجية الإطلاق",
+      "subtitle": "أول براند استثمار زراعي بيبدأ بالدليل — مش بالوعود.",
+      "summary": "نظام نمو كامل بيحوّل المصريين المقيمين في السعودية من ناس متشككة لمحادثات واتساب مؤهلة — عن طريق عمليات موثقة، ظهور المؤسس، وتوجيه إنساني هادئ.",
       "bullets": [
-        "السوق الأساسي: مصريون مقيمون في السعودية، ٤٠+ سنة، عائليون، يدوّروا على دليل.",
-        "الهدف الأساسي: محادثات مؤهلة و MQLs — مش حجم ليدز فارغ.",
-        "الآلية الأساسية: إعلانات ميتا ← صفحة هبوط قائمة على الثقة ← واتساب (AI + بشري) ← تحقق ← تسليم المبيعات.",
-        "نقطة البداية: صفر حضور رقمي — كل ظهور هو الانطباع الأول."
+        "السوق: مصريون في السعودية، ٤٠+ سنة، بيدوّروا على دليل.",
+        "الهدف: محادثات مؤهلة — مش حجم ليدز فارغ.",
+        "المسار: ميتا ← صفحة ثقة ← واتساب ← تحقق ← بيع.",
+        "البداية: صفر حضور — كل ظهور هو الانطباع الأول."
       ],
       "evidence": [
         {
           "heading": "نطاق الباقة",
-          "detail": "شراكة النمو الكاملة — بناء الفانل، التحسين، إدارة الإعلانات، إدارة ردود الواتساب (شهرين مجاناً)، نظام CRM، وفيديو UGC مكافأة."
+          "detail": "شراكة نمو كاملة: فانل، إدارة إعلانات، واتساب (شهرين مجاناً)، CRM، فيديو UGC مكافأة."
         },
         {
           "heading": "الجدول الزمني",
-          "detail": "حوالي شهر من الانطلاق: أسبوعين استراتيجية، أسبوعين بناء. ميزانية الإعلانات: ١٠٠ ألف جنيه/شهر (الشهر ١-٢)، تتزيد لـ ٣٠٠ ألف جنيه/شهر (الشهر ٣+، مشروط بالنتائج)."
+          "detail": "أسبوعين استراتيجية + أسبوعين بناء. ميزانية إعلانات: ١٠٠ ألف ج/شهر (الشهرين الأوّل)، ٣٠٠ ألف ج/شهر بعدها مشروط بالنتائج."
         }
       ],
       "sources": [
-        "docs/project/PROJECT_CONTEXT.md",
-        "docs/strategy/direct-response-strategy.md",
-        "محضر اجتماع: ٢٠٢٦-٠٣-٠٢"
+        "PROJECT_CONTEXT.md",
+        "direct-response-strategy.md",
+        "محضر اجتماع ٢٠٢٦-٠٣-٠٢"
       ],
-      "speakerNotes": "Open by framing this as a commercial system, not a brand deck. The core idea: Basseqat can win because no competitor in this category leads with trust. Make that clear before discussing creative or budget. Remind the room that zero presence means zero mistakes to undo — we get to define the brand correctly from day one.",
-      "cta": "نوحّد الغرفة على فكرة الانطلاق القائم على الثقة قبل ما ندخل في الأدلة."
+      "speakerNotes": "Open by framing this as a commercial system, not a brand deck. The core idea: Basseqat can win because no competitor in this category leads with trust. Zero presence means zero mistakes to undo — we define the brand correctly from day one. Keep the focus on qualified conversations, not vanity metrics.",
+      "cta": "نوحّد الغرفة على مبدأ الثقة أولاً"
     },
     {
       "id": 2,
       "kicker": "المشكلة",
-      "title": "المنافسين بيوعدوا بعائد ٤٨–٦٠٪. الجمهور مش مصدق حد خلاص.",
-      "tag": "التوتر في السوق",
-      "summary": "كل المنافسين المحددين في سوق الاستثمار الزراعي المصري بيبدأوا بوعود عوائد عالية وآليات تحقق ضعيفة. حالات نصب حديثة — زي منصة FBC اللي نصبت على آلاف — علّمت الجمهور ده يشك الأول ويسأل بعدين.",
+      "title": "المنافسين بيوعدوا ٤٨–٦٠٪ | الجمهور مش مصدق حد",
+      "tag": "فجوة السوق",
+      "summary": "كل المنافسين بيبدأوا بوعود عوائد عالية وآليات تحقق ضعيفة. حالات نصب زي FBC علّمت الجمهور يشك الأول.",
       "bullets": [
-        "نخيل فالي بيدّعي لحد ٥٠٪ عائد سنوي على عقود ٥٠ سنة.",
-        "درة النخيل بتعلن عن ٤٨–٦٠٪ متوسط عائد سنوي.",
-        "GRILAND مصر بتوعد بـ «عوائد مالية جذابة» بدون تفاصيل.",
-        "ولا منافس واحد بيقود بالتوثيق أو الشفافية أو دعوة الزيارة كرسالة أساسية.",
-        "قضية نصب FBC نصبت على آلاف المصريين — بعضهم باع عقارات عشان يستثمر."
+        "نخيل فالي: لحد ٥٠٪ عائد سنوي على عقود ٥٠ سنة.",
+        "درة النخيل: ٤٨–٦٠٪ متوسط عائد سنوي.",
+        "GRILAND: «عوائد جذابة» بدون تفاصيل.",
+        "ولا منافس بيقود بالتوثيق أو التحقق كرسالة أولى.",
+        "FBC نصبت على آلاف — بعضهم باع ممتلكات."
       ],
       "evidence": [
         {
-          "heading": "الفجوة التنافسية المحددة",
-          "detail": "من أصل ٤ منافسين تم مراجعتهم، ولا واحد بيقدّم الشفافية أو التوثيق أو إمكانية التحقق كرسالته التسويقية الأساسية. كلهم بيبدأوا بتوقعات العوائد."
+          "heading": "الفجوة التنافسية",
+          "detail": "٤ منافسين تم مراجعتهم — ولا واحد بيستخدم الشفافية أو التوثيق أو دعوة التحقق كرسالة أساسية. كلهم بيبدأوا بتوقعات عوائد."
         },
         {
           "heading": "حساسية النصب بنيوية",
-          "detail": "مؤسسة النقد السعودي (ساما) بتحذر المقيمين بشكل نشط من عمليات نصب الاستثمار عبر الواتساب. حالات نصب مصرية متعددة في الذاكرة العامة. ده مش كلام — ده بيشكّل طريقة تقييم الشخصية المستهدفة لكل عرض."
+          "detail": "مؤسسة النقد السعودي (ساما) بتحذر المقيمين من نصب الواتساب. حالات نصب مصرية في الذاكرة العامة. ده بيشكّل طريقة تقييم كل عرض."
         }
       ],
       "sources": [
-        "docs/research/competitor-scan.md",
+        "competitor-scan.md",
         "nakheelvalley.com",
         "doraelnakheel.com",
-        "egyptindependent.com (نصب FBC)",
-        "resecurity.com (احتيال بنكي سعودي)"
+        "egyptindependent.com"
       ],
-      "speakerNotes": "This slide is the commercial justification for the entire positioning. We are not trying to out-promise Nakheel Valley or Dora El Nakheel. We are positioning Basseqat as the credible alternative for people who have been burned or nearly burned. The competitor data is from their own websites — these are their published claims, not our interpretation. The FBC case is publicly documented and recent enough to be in the audience's memory.",
-      "cta": "نخلي الغرفة تحس ليه التمايز بالثقة مش اختياري — هو الطريق الوحيد المعقول."
+      "speakerNotes": "This slide is the commercial justification for the entire positioning. We are not trying to out-promise competitors. We are positioning Basseqat as the credible alternative for people trained to distrust. The competitor data is from their own published websites — these are their claims, not our interpretation. The FBC case is publicly documented and recent.",
+      "cta": "التمايز بالثقة مش اختياري — هو الطريق الوحيد"
     },
     {
       "id": 3,
       "kicker": "ليه دلوقتي",
-      "title": "التضخم وإرهاق النصب وأساسيات السوق الحقيقية بيخلقوا الفرصة",
+      "title": "تضخم + إرهاق نصب + أساسيات حقيقية | الفرصة مفتوحة",
       "tag": "التوقيت",
-      "summary": "ثلاث قوى بتتقاطع: الجنيه المصري مستمر في الانخفاض (بيدفع المغتربين يدوّروا على أصول منتجة)، حالات النصب الأخيرة خلّت الجمهور جوعان لعروض قائمة على الدليل أكتر من أي وقت، ومكانة مصر كأكبر منتج للتمور في العالم بتقدم قصة منتج حقيقية ومعقولة.",
+      "summary": "الجنيه بينزل، النصب بيزيد الشك، ومصر أكبر منتج تمور في العالم. الجمهور جاهز لعرض حقيقي.",
       "bullets": [
-        "مصر أكبر منتج للتمور في العالم — ١.٩ مليون طن/سنة من ١٩ مليون نخلة مثمرة.",
-        "تمور المجدول هي الصنف العالمي الممتاز — طلب متزايد في أوروبا وأمريكا وآسيا.",
-        "انخفاض الجنيه المصري بيخلي الأصول المقوّمة بالجنيه جذابة لأصحاب الدخل بالريال.",
-        "فراغ ثقة ما بعد FBC: الجمهور بيدوّر بنشاط على بدائل قائمة على الدليل.",
-        "برامج حكومية زي «مزرعتك في مصر» بتؤكد شرعية فئة الاستثمار الزراعي للمغتربين."
+        "مصر #١ عالمياً — ١.٩ مليون طن/سنة من ١٩ مليون نخلة.",
+        "المجدول: الصنف الممتاز — طلب متزايد عالمياً.",
+        "انخفاض الجنيه بيخلي أصول الجنيه جذابة لأصحاب دخل الريال.",
+        "فراغ ثقة بعد FBC — الناس بتدوّر على بديل حقيقي.",
+        "«مزرعتك في مصر»: الحكومة بتؤكد شرعية الفكرة."
       ],
       "evidence": [
         {
           "heading": "تأكيد صحة الفئة",
-          "detail": "استراتيجية مصر الوطنية لتصدير التمور، أولويات رؤية السعودية ٢٠٣٠ الزراعية، وبرنامج الحكومة «مزرعتك في مصر» كلهم بيؤكدوا الدعم المؤسسي للمشاركة الزراعية كفئة استثمارية شرعية."
+          "detail": "استراتيجية تصدير التمور + رؤية ٢٠٣٠ + برنامج «مزرعتك في مصر» كلهم بيؤكدوا الدعم المؤسسي للمشاركة الزراعية."
         },
         {
-          "heading": "ملاحظة امتثال",
-          "detail": "بنستخدم أساسيات السوق لبناء المصداقية — مش أبداً للتلميح بعوائد مالية مضمونة. كل النصوص بتلتزم بحدود الامتثال."
+          "heading": "⚠ ملاحظة امتثال",
+          "detail": "أساسيات السوق لبناء المصداقية فقط — مش للتلميح بعوائد مضمونة. كل النصوص ملتزمة بحدود الامتثال."
         }
       ],
       "sources": [
-        "docs/research/market-environment-scan.md",
-        "docs/research/research-report.md",
-        "tridge.com (بيانات إنتاج التمور)",
-        "egyptianstreets.com (مزرعتك في مصر)",
+        "market-environment-scan.md",
+        "research-report.md",
+        "tridge.com",
         "investinegypt.gov.eg"
       ],
-      "speakerNotes": "This slide shows that the positioning is not invented — it is responding to real market forces. Keep it factual. The EGP depreciation point will resonate deeply with the founders since they sell to expats earning in SAR. The 1.9 million tons figure is from Tridge market data and is verifiable. Do NOT use this slide to imply financial projections.",
-      "cta": "نبيّن إن التموضع القائم على الثقة في وقته المناسب ومبني على أدلة — مش اختراع."
+      "speakerNotes": "Keep this factual. The EGP depreciation point will resonate with founders since they sell to expats earning in SAR. The 1.9M tons figure is from Tridge market data and is verifiable. Do NOT use this slide to imply financial projections — use it to explain why the category matters and why trust is the commercial unlock right now.",
+      "cta": "التموضع في وقته — مبني على أدلة مش افتراضات"
     },
     {
       "id": 4,
       "kicker": "الجمهور",
-      "title": "«أبو أحمد»: المعيل الحذر اللي محتاج يفهم قبل ما يتصرف",
+      "title": "أبو أحمد | المعيل اللي عايز يفهم الأول",
       "tag": "الشخصية الأساسية",
-      "summary": "المشتري الأساسي مصري مقيم في السعودية عنده ٤٠+ سنة، اشتغل بجد ١٠–١٥+ سنة، بيحوّش بحرص، وحاسس بضغط التضخم والتقاعد غير المؤكد. عايز فرصة حقيقية قابلة للتحقق — بس السوق علّمه يشك في كل حد بيقدّم واحدة.",
+      "summary": "مصري في السعودية، ٤٠+، اشتغل بجد ١٠–١٥ سنة. بيحوّش بحرص. السوق علّمه يشك في كل حاجة. عايز دليل — مش كلام.",
       "bullets": [
-        "بيحوّش بانتظام، بيحوّل فلوس لمصر، بيقارن بالدهب والعقار وودائع البنوك.",
-        "«خايف أرجع مصر ومعييش حاجة» — القلق المالي هو اللي بيدفعه يدوّر.",
-        "«ورّيني الأوراق» — الدليل بيقنعه أكتر من الوعود.",
-        "بيستشير العيلة قبل ما يتصرف — لازم يكون واثق يكفي يشرح الموضوع في البيت.",
-        "بيفضّل الواتساب للمواضيع الجدية — مش تعليقات أو نماذج تواصل."
+        "بيحوّش ويحوّل لمصر ويقارن بالدهب والعقار.",
+        "«خايف أرجع مصر ومعييش حاجة.»",
+        "«ورّيني الأوراق» — الدليل أقوى من الوعود.",
+        "بيستشير العيلة — لازم يعرف يشرح الموضوع في البيت.",
+        "بيفضّل الواتساب — مش نماذج تواصل ولا كومنتات."
       ],
       "evidence": [
         {
-          "heading": "بيقول ايه",
+          "heading": "بيقول ايه بالظبط",
           "detail": "«عايز أفهم مش عايز حد يبيعلي» — «عايز أشوف بعينيا» — «اللي يقول لي الحقيقة أنا معاه»."
         },
         {
           "heading": "محفزات الثقة",
-          "detail": "المؤسس على الكاميرا، توثيق حقيقي للمزرعة، دعوة للزيارة، شرح العملية قبل طلب القرار، عربي بلهجة مصرية — مش فصحى."
+          "detail": "المؤسس على الكاميرا، توثيق حقيقي، دعوة للزيارة، شرح العملية قبل طلب القرار، عربي مصري — مش فصحى."
         }
       ],
       "sources": [
-        "docs/strategy/direct-response-strategy.md (القسم ٥)",
-        "docs/research/customer-language-bank.md",
-        "محضر اجتماع: ٢٠٢٦-٠٣-٠٢ (خالد عن UGC والشخصية المستهدفة)"
+        "direct-response-strategy.md §5",
+        "customer-language-bank.md",
+        "محضر اجتماع ٢٠٢٦-٠٣-٠٢"
       ],
-      "speakerNotes": "This persona is built from the client brief's audience section, Khaled's own description in the meeting ('لما هيبقى عندي 60 سنة — هعمل ايه'), and market research on Egyptian expat financial behavior. He is not slow because he is unqualified — he is slow because the market trained him to be skeptical. The funnel must respect that, not bulldoze it. Mention the family consultation point — it means our messaging must be repeatable, not just persuasive.",
-      "cta": "نتفق على مين الفانل مصمم ليه — ده بيفلتر كل قرار إبداعي ونصّي بعد كده."
+      "speakerNotes": "This persona is built from the client brief, Khaled's description in the meeting ('لما هيبقى عندي 60 سنة — هعمل ايه'), and market research on Egyptian expat financial behavior. He is not slow because he is unqualified — he is slow because the market trained him to be skeptical. The funnel must respect that. The family consultation point means our messaging must be repeatable, not just persuasive.",
+      "cta": "نتفق مين الفانل مصمم ليه — ده بيفلتر كل قرار بعد كده"
     },
     {
       "id": 5,
       "kicker": "التموضع",
-      "title": "«بَسّقات بتورّيك المشروع قبل ما تسألك تاخد قرار.»",
-      "tag": "الميزة الاستراتيجية",
-      "summary": "بينما المنافسين بيقولوا «ثق في أرقامنا»، بَسّقات بتقول «تعالى شوف بنفسك.» البراند بيتصرف كمرشد مش بائع. التحقق جزء من العرض — مش إضافة. الفكرة الواحدة دي لازم تمشي في كل إعلان وصفحة ورسالة ومحادثة.",
+      "title": "بَسّقات بتورّيك المشروع | قبل ما تسألك تاخد قرار",
+      "tag": "الرسالة الواحدة",
+      "summary": "المنافسين بيقولوا «ثق في أرقامنا». بَسّقات بتقول «تعالى شوف بنفسك.» التحقق جزء من العرض — مش إضافة.",
       "bullets": [
-        "الرسالة الأساسية: بَسّقات بتورّيك المشروع قبل ما تسألك تاخد قرار.",
-        "نقود بالشفافية كسلوك — مش شعار.",
-        "نستبدل الهايب بظهور المؤسس وتوثيق العمليات.",
-        "نخلي التحقق (زيارة المزرعة، جولة افتراضية، التوثيق) جزء من المنتج نفسه — مش مكافأة.",
-        "كلمات محجوزة للبراند: شفافية، عمليات، توثيق، تحقق، حقيقي، جاد، هادئ، موثوق."
+        "الرسالة: «بَسّقات بتورّيك المشروع قبل ما تسألك تاخد قرار.»",
+        "شفافية كسلوك — مش شعار.",
+        "ظهور المؤسس + توثيق العمليات بدل الهايب.",
+        "التحقق (زيارة، جولة افتراضية، توثيق) = جزء من المنتج."
       ],
       "evidence": [
         {
           "heading": "اختبار التموضع",
-          "detail": "لو أي حد في الغرفة مش يقدر يقول ايه اللي بيميّز بَسّقات في جملة واحدة — يبقى التموضع لسه مش قوي كفاية. الجملة: «إحنا بنورّيك المشروع قبل ما نسألك تقرر.»"
+          "detail": "لو أي حد في الغرفة مش يقدر يكرر ايه بيميّز بَسّقات في جملة واحدة — يبقى التموضع لسه مش قوي كفاية."
         },
         {
           "heading": "ده مش ايه",
-          "detail": "مش تمرين «هوية براند فاخرة». ده تموضع استجابة مباشرة بيخلق ثقة كافية لبدء محادثة واتساب مع مشتري متشكك."
+          "detail": "مش تمرين هوية براند. ده تموضع استجابة مباشرة بيخلق ثقة كافية لبدء محادثة واتساب مع مشتري متشكك."
         }
       ],
       "sources": [
-        "docs/messaging/messaging-bible.md",
-        "docs/strategy/direct-response-strategy.md (القسم ٧)"
+        "messaging-bible.md",
+        "direct-response-strategy.md §7"
       ],
-      "speakerNotes": "This is the most important slide in the deck. If the founder can repeat this one-liner and believe it, all downstream creative will be consistent. Point out that competitors cannot copy this positioning without actually changing their operations — because we are not promising a message, we are promising a verifiable behavior. If Basseqat does not actually have the documentation, farm access, and founder willingness to appear on camera, this positioning falls apart. Those are the table stakes.",
-      "cta": "نثبّت التموضع قبل ما نتكلم عن أصول أو كريتيف أو ميزانية."
+      "speakerNotes": "Most important slide in the deck. If the founder can repeat this one-liner and believe it, all downstream creative will be consistent. Competitors cannot copy this positioning without actually changing their operations — we are promising a verifiable behavior, not a marketing claim. If Basseqat does not have documentation, farm access, and founder willingness to appear on camera, this positioning falls apart.",
+      "cta": "نثبّت التموضع قبل ما نتكلم عن أي حاجة تانية"
     },
     {
       "id": 6,
       "kicker": "العرض",
-      "title": "مشاركة زراعية ملفوفة في توثيق وتوجيه ودعوة دائمة للتحقق",
-      "tag": "منطق العرض",
-      "summary": "العرض مش «استثمر واستنى.» العرض هو: شارك في عملية نخيل تمور موثقة، استلم تقارير منتظمة، خد توجيه بشري عبر الواتساب، وتحقق من كل حاجة — بما فيها زيارة المزرعة — قبل وبعد ما تقرر.",
+      "title": "مشاركة زراعية | ملفوفة في توثيق وتوجيه وتحقق",
+      "tag": "هيكل العرض",
+      "summary": "مش «استثمر واستنى.» العرض هو: شارك في عملية موثقة، استلم تقارير، خد توجيه واتساب، وتحقق من كل حاجة قبل وبعد ما تقرر.",
       "bullets": [
-        "الأساس: مشاركة زراعية في زراعة نخيل التمور (تركيز على المجدول).",
-        "التوثيق: تقارير عمليات بتواريخ وصور وتحديثات زراعة.",
-        "التوجيه: دعم واتساب مخصص — AI للسرعة، بشري للعمق.",
-        "التحقق: دعوة لزيارة المزرعة + خيار جولة افتراضية.",
-        "إزالة المخاطر: بالشفافية والتحقق — مش بعوائد مضمونة."
+        "الأساس: مشاركة في زراعة نخيل تمور (المجدول).",
+        "التوثيق: تقارير عمليات بتواريخ وصور.",
+        "التوجيه: واتساب مخصص — AI + بشري.",
+        "التحقق: زيارة المزرعة + جولة افتراضية.",
+        "إزالة مخاطر: بالشفافية — *مش بعوائد مضمونة*."
       ],
       "evidence": [
         {
           "heading": "حاجز الامتثال",
-          "detail": "ممنوع لغة العوائد المضمونة. ممنوع توقعات مالية. إزالة المخاطر بتتم عبر شفافية العمليات وإمكانية التحقق — مش وعود مالية."
+          "detail": "ممنوع لغة العوائد المضمونة. ممنوع توقعات مالية. إزالة المخاطر بالشفافية والتحقق فقط."
         },
         {
           "heading": "⚠ بنود مفتوحة",
-          "detail": "مستويات المشاركة والتسعير مش متأكدة لسه. مدة العقد وطرق الدفع من السعودية وشكل التوثيق في الانتظار. منطق العرض معتمد — التفاصيل التجارية محتاجة تأكيد من العميل."
+          "detail": "مستويات المشاركة والتسعير لسه مش متأكدة. مدة العقد وطرق الدفع من السعودية في الانتظار. منطق العرض معتمد — التفاصيل التجارية محتاجة تأكيد."
         }
       ],
       "sources": [
-        "docs/offers/offer-architecture.md",
-        "docs/client_kb/MISSING_INPUTS.md"
+        "offer-architecture.md",
+        "MISSING_INPUTS.md"
       ],
-      "speakerNotes": "Be upfront that this slide has structural gaps. The offer logic and risk reversal mechanism are strategically approved. But without confirmed pricing tiers, contract terms, and documentation format, the landing page and ad copy cannot be fully specific. This is not a strategy weakness — it is a production dependency. Ask the founders what information they can provide now.",
-      "cta": "نأكد منطق العرض ونطلع المدخلات التجارية المحددة المطلوبة للإنهاء."
+      "speakerNotes": "Be upfront that this slide has structural gaps. The offer logic and risk reversal mechanism are strategically approved. But without confirmed pricing tiers, contract terms, and documentation format, the landing page and ad copy cannot be fully specific. This is a production dependency, not a strategy weakness. Ask the founders what information they can provide now.",
+      "cta": "نأكد منطق العرض — ونطلع المدخلات اللي لسه ناقصة"
     },
     {
       "id": 7,
       "kicker": "الفانل",
-      "title": "تعليم ← بناء ثقة ← تأهيل على الواتساب ← دعوة للتحقق ← تسليم مبيعات",
+      "title": "تعليم ← ثقة ← تأهيل ← تحقق ← بيع",
       "tag": "مسار التحويل",
-      "summary": "الترافيك بييجي من إعلانات ميتا لصفحة هبوط قائمة على الثقة، وبعدين للواتساب حيث AI بيتعامل مع التفاعل الأولي والمحادثات المؤهلة بتتنقل لعضو فريق بشري. محتوى الإثبات ومعالجة الاعتراضات ودعوة الزيارة أو الجولة الافتراضية بينقلوا الـ MQLs نحو محادثة بيع.",
+      "layout": "timeline",
+      "summary": "الترافيك من ميتا لصفحة ثقة، وبعدين واتساب حيث AI بيرحب والمحادثات المؤهلة بتتسلّم لبشري. محتوى الإثبات ومعالجة الاعتراضات بينقلوا الـ MQL للبيع.",
       "bullets": [
-        "إعلانات ميتا: ٥ زوايا × ٣ نسخ — قلق مالي، ثقة/تفنيد خرافات، سلطة المؤسس، عملية/آلية، سيناريوهات مشاكل.",
-        "صفحة الهبوط: ١١ قسم قائمة على الثقة — بطل، مشكلة، تأجيج، مرشد، خطة، عرض، إثبات، اعتراضات، إزالة مخاطر، أسئلة شائعة، CTA نهائي.",
-        "واتساب: ترحيب AI ← معالجة أسئلة ← تأهيل ← تسليم بشري ← تسلسل رعاية (يوم ١–١٤).",
-        "إيميل: تسلسل ٥ إيميلات — ترحيب، عملية، سياق السوق، إثبات، الخطوة الجاية.",
-        "إعادة الاستهداف: زاوية إثبات، زاوية أسئلة، زاوية المؤسس — أقصى ٣ ظهورات/أسبوع."
+        "إعلانات ميتا: ٥ زوايا × ٣ نسخ — ١٥ نسخة جاهزة.",
+        "صفحة الهبوط: ١١ قسم قائم على الثقة.",
+        "واتساب: AI ← أسئلة ← تأهيل ← تسليم بشري ← رعاية (يوم ١–١٤).",
+        "إيميل: تسلسل ٥ إيميلات متابعة.",
+        "إعادة استهداف: ٣ زوايا — أقصى ٣ ظهورات/أسبوع."
       ],
       "evidence": [
         {
-          "heading": "مبرر اختيار القنوات",
-          "detail": "فيسبوك هو المنصة الأساسية للمصريين المقيمين في السعودية. واتساب هو طريقة الجمهور ده للتواصل في المواضيع المالية الجدية. الفانل بيحترم السلوكين دول."
+          "heading": "اختيار القنوات",
+          "detail": "فيسبوك = المنصة الأولى للمصريين في السعودية. واتساب = طريقتهم في المواضيع الجدية. الفانل بيحترم السلوكين."
         },
         {
           "heading": "النص جاهز",
-          "detail": "١٥ نسخة إعلان، ٨ عناوين، ٧ رسائل واتساب، ٣ قوالب اعتراضات، ٥ إيميلات، و٣ نسخ إعادة استهداف — كلهم جاهزين بالعربي المصري — كلهم متوافقين مع الامتثال وجاهزين للمراجعة."
+          "detail": "١٥ إعلان، ٨ عناوين، ٧ رسائل واتساب، ٣ قوالب اعتراضات، ٥ إيميلات، ٣ نسخ retargeting — كلهم بالمصري وجاهزين للمراجعة."
         }
       ],
       "sources": [
-        "docs/pages/primary-landing-page-spec.md",
-        "docs/messaging/campaign-flow-draft.md",
-        "docs/messaging/ad-copy-drafts.md",
-        "docs/messaging/whatsapp-email-copy.md"
+        "primary-landing-page-spec.md",
+        "campaign-flow-draft.md",
+        "ad-copy-drafts.md",
+        "whatsapp-email-copy.md"
       ],
-      "speakerNotes": "Walk through the funnel linearly so the room sees each handoff. Emphasize that the landing page is 11 sections deep because this audience needs extensive trust-building before clicking WhatsApp — it is not a short squeeze page. The WhatsApp sequence is designed for patience: Day 1, 3, 5, 7, 14 — respecting the long decision cycle. The 15 ad variants are built around 5 strategic angles, not random creative. Each angle tests a different entry point into the buyer's decision.",
-      "cta": "نمشي الفريق على مسار التحويل عشان كل واحد يشوف دوره في التسلسل."
+      "speakerNotes": "Walk through the funnel linearly. The landing page is 11 sections deep because this audience needs extensive trust-building — it is not a squeeze page. The WhatsApp sequence spaces messages at Day 1, 3, 5, 7, 14 — respecting the long decision cycle. The 15 ad variants are built around 5 strategic angles, each testing a different entry into the buyer's decision.",
+      "cta": "كل واحد في الفريق يشوف دوره في التسلسل"
     },
     {
       "id": 8,
       "kicker": "الرسائل",
-      "title": "أربع ركائز بتشكّل كل التواصل: شفافية، عمليات حقيقية، توجيه، رؤية طويلة المدى",
+      "title": "٤ ركائز | بتشكّل كل حاجة بنقولها",
       "tag": "نظام التواصل",
-      "summary": "كل إعلان وقسم صفحة هبوط ورسالة واتساب وإيميل ومحتوى مؤسس لازم يكون مرتبط بواحدة من الأربع ركائز دول. النبرة هادئة، محددة، بالعربي المصري، وقائمة على الدليل — أبداً هايب أو ترجمة شركات أو ضغط استعجال.",
+      "layout": "story-framework",
+      "summary": "كل إعلان وصفحة ورسالة واتساب وإيميل ومحتوى مؤسس لازم يرجع لركيزة من دول. النبرة: هادئة، محددة، مصري، دليل أولاً.",
       "bullets": [
-        "شفافية: «إحنا بنوريك كل حاجة — مش بنخبّي حاجة.»",
-        "عمليات حقيقية: «ده مشروع حقيقي بناس حقيقيين.»",
-        "توجيه: «إحنا بنفهّمك — مش بنبيعك.»",
-        "رؤية طويلة المدى: «ده مشروع طويل المدى — مش عملية سريعة.»"
+        "شفافية: «بنوريك كل حاجة — مش بنخبّي حاجة.»",
+        "عمليات حقيقية: «مشروع حقيقي بناس حقيقيين.»",
+        "توجيه: «بنفهّمك — مش بنبيعك.»",
+        "رؤية طويلة: «مشروع طويل المدى — مش عملية سريعة.»"
       ],
       "evidence": [
         {
           "heading": "لغة ممنوعة",
-          "detail": "ممنوع «ارباح مضمونة». ممنوع «عائد ٥٠٪». ممنوع «فرصة العمر». ممنوع «استثمار بدون مخاطر». ممنوع ضغط الاستعجال."
+          "detail": "ممنوع: ارباح مضمونة، عائد ٥٠٪، فرصة العمر، استثمار بدون مخاطر. ممنوع ضغط استعجال."
         },
         {
           "heading": "ركائز المحتوى",
-          "detail": "فيديوهات سلطة المؤسس (خالد على الكاميرا)، لقطات توثيق العمليات، تعليمي لتفنيد الخرافات، أسئلة شائعة ومعالجة اعتراضات. ٣–٤ بوستات/أسبوع موصى بيهم في الشهر الأول."
+          "detail": "فيديوهات خالد على الكاميرا، لقطات عمليات، تعليم وتفنيد خرافات، أسئلة ومعالجة اعتراضات. ٣–٤ بوستات/أسبوع الشهر الأول."
         }
       ],
       "sources": [
-        "docs/messaging/messaging-bible.md",
-        "docs/research/customer-language-bank.md"
+        "messaging-bible.md",
+        "customer-language-bank.md"
       ],
-      "speakerNotes": "This slide is the creative brief in four lines. If any later ad, email, or WhatsApp message does not trace back to one of these pillars, it should be questioned. Emphasize the Arabic copy direction — Egyptian dialect, not MSA. The audience will reject copy that sounds translated or institutional. Read the pillar statements aloud in Arabic — they should sound like something a friend would say, not a corporation. The forbidden language list is not just a compliance rule — it is a brand positioning choice.",
-      "cta": "نحوّل التموضع لقواعد تواصل غير قابلة للنقاش يقدر الفريق ينفذها."
+      "speakerNotes": "This is the creative brief in four lines. If any ad, email, or WhatsApp message does not trace back to one of these pillars, it should be questioned. Egyptian dialect, not MSA — the audience will reject copy that sounds translated or institutional. Read the pillar statements aloud in Arabic — they should sound like something a friend would say. The forbidden language list is both a compliance rule and a brand positioning choice.",
+      "cta": "قواعد تواصل غير قابلة للنقاش — الفريق كله بينفذها"
     },
     {
       "id": 9,
       "kicker": "الإطلاق",
-      "title": "نبدأ صغير. نقيس المحادثات المؤهلة. ونكبّر بس بعد حركة مثبتة.",
+      "title": "نبدأ صغير | نكبّر بس بعد حركة مثبتة",
       "tag": "انضباط التنفيذ",
-      "summary": "الشهر ١–٢ مرحلة اختبار وتعلّم بـ ١٠٠ ألف جنيه/شهر إنفاق إعلاني. النظام بيتحسّن لجودة المحادثات مش حجم الليدز. الشهر ٣+ بيتكبّر لـ ٣٠٠ ألف جنيه/شهر بس بعد ما الفانل يثبت تقدم حقيقي من محادثة لـ MQL لحركة مبيعات.",
+      "summary": "شهرين اختبار بـ ١٠٠ ألف ج/شهر. نحسّن لجودة المحادثات مش حجم الليدز. الشهر ٣+ نكبّر لـ ٣٠٠ ألف ج/شهر بس لو الفانل أثبت حركة حقيقية.",
       "bullets": [
-        "الشهر ١: نبدأ فيسبوك/إنستجرام بس ← صفحة هبوط ← واتساب.",
-        "الشهر ٢: نضيف إعادة استهداف، نحسّن بناءً على بيانات التحويل، ندخل قناة تانية لو النتائج تدعم.",
-        "الشهر ٣+: نكبّر لـ ٣٠٠ ألف جنيه/شهر — مشروط بنجاح المبيعات مش التفاؤل.",
-        "مؤشرات أساسية: معدل بدء المحادثة، معدل المحادثة المؤهلة، معدل MQL، تكلفة الـ MQL.",
-        "مؤشرات ثانوية: تحويل صفحة الهبوط، CTR/CPC، سرعة الرد، جودة التسليم AI-لبشري."
+        "الشهر ١: فيسبوك/إنستجرام ← صفحة ← واتساب فقط.",
+        "الشهر ٢: + إعادة استهداف + تحسين + قناة تانية لو النتائج تدعم.",
+        "الشهر ٣+: ٣٠٠ ألف ج/شهر — مشروط بنجاح مبيعات.",
+        "KPIs أساسية: معدل محادثة مؤهلة، معدل MQL، تكلفة MQL.",
+        "KPIs ثانوية: تحويل الصفحة، CTR/CPC، سرعة الرد."
       ],
       "evidence": [
         {
           "heading": "هيكل الميزانية",
-          "detail": "١٠٠ ألف جنيه/شهر إنفاق إعلاني (الشهر ١–٢) + ٣٢,٥٠٠ جنيه/شهر رسوم إدارة. قرار التكبير في نهاية الشهر ٢ بناءً على مؤشرات المحادثة المؤهلة والـ MQL — مش الانطباعات أو النقرات."
+          "detail": "١٠٠ ألف ج/شهر إعلانات (شهر ١-٢) + ٣٢,٥٠٠ ج/شهر إدارة. قرار التكبير بناءً على MQL — مش انطباعات."
         },
         {
           "heading": "التقارير",
-          "detail": "لقطة مؤشرات أسبوعية + ملاحظات تحسين. تقرير فانل كامل شهري + توصيات استراتيجية. مراجعة استراتيجية ربع سنوية + توصية ميزانية."
+          "detail": "أسبوعي: لقطة KPIs + تحسين. شهري: تقرير فانل كامل. ربع سنوي: مراجعة استراتيجية + توصية ميزانية."
         }
       ],
       "sources": [
-        "docs/strategy/direct-response-strategy.md (القسم ١١)",
-        "docs/project/PROJECT_CONTEXT.md",
+        "direct-response-strategy.md §11",
+        "PROJECT_CONTEXT.md",
         "فاتورة AWI-202603-003"
       ],
-      "speakerNotes": "This slide keeps expectations grounded. Starting from zero means the first month is about learning, not winning. Be clear: the primary KPI is qualified conversation rate, not lead count. Cheap leads that waste WhatsApp agent time are worse than fewer, better leads that move through the pipeline. The EGP 300K/month scale decision is conditional — this was discussed in the meeting and agreed by both sides.",
-      "cta": "نتفق بوضوح على مقاييس النجاح قبل الإطلاق عشان مراجعة الشهر ٢ يكون ليها تعريف مشترك لـ «شغّال»."
+      "speakerNotes": "This slide keeps expectations grounded. Starting from zero means month 1 is about learning, not winning. Primary KPI is qualified conversation rate, not lead count. Cheap leads that waste WhatsApp agent time are worse than fewer, better leads. The EGP 300K/month scale decision is conditional — discussed and agreed in the meeting.",
+      "cta": "نتفق على تعريف «شغّال» قبل الإطلاق"
     },
     {
       "id": 10,
       "kicker": "القرار",
-      "title": "اتجاه الاستراتيجية متثبّت. أربع مدخلات منكم هتفتح بناء الإنتاج النهائي.",
+      "title": "الاستراتيجية جاهزة | ٤ مدخلات منكم تفتح الإنتاج",
       "tag": "المطلوب فوراً",
-      "summary": "التموضع وهيكل الفانل ونظام الرسائل والنصوص كلهم مسوّدين وجاهزين للمراجعة. الإنتاج النهائي — خصوصاً صفحة الهبوط ونص الإعلانات المحدد وأتمتة الواتساب — معتمد على أصول إثبات وتفاصيل تجارية وإعداد تقني بس فريق بَسّقات يقدر يقدمه.",
+      "summary": "التموضع والفانل والرسائل والنصوص مسوّدين. الإنتاج النهائي — صفحة الهبوط ونص الإعلانات وأتمتة الواتساب — معتمد على ٤ حاجات بس الفريق يقدر يقدمها.",
       "bullets": [
-        "① أصول الإثبات: صور المزرعة، لقطات العمليات، نماذج التوثيق، فيديو المؤسس، أي شهادات.",
-        "② التفاصيل التجارية: مستويات المشاركة المحددة، التسعير، مدة العقد، طرق الدفع من السعودية.",
-        "③ الجاهزية التشغيلية: توفر زيارة المزرعة، محتوى الجولة الافتراضية، أسئلة المبيعات الحالية والاعتراضات الشائعة.",
-        "④ الإعداد التقني: دومين صفحة الهبوط، تفويض مشروع Firebase، وصول WhatsApp Business API."
+        "① أصول الإثبات: صور مزرعة، لقطات عمليات، فيديو المؤسس، نماذج توثيق.",
+        "② التفاصيل التجارية: مستويات مشاركة، تسعير، مدة العقد، طرق دفع من السعودية.",
+        "③ الجاهزية التشغيلية: توفر الزيارة، جولة افتراضية، أسئلة المبيعات الحالية.",
+        "④ الإعداد التقني: دومين، Firebase، وصول WhatsApp Business API."
       ],
       "evidence": [
         {
-          "heading": "ايه الجاهز دلوقتي",
-          "detail": "١٥ نسخة إعلان على ٥ زوايا، ٨ عناوين، مواصفات صفحة هبوط ١١ قسم، ٧ رسائل واتساب + ٣ قوالب اعتراضات، تسلسل ٥ إيميلات، ٣ نسخ إعادة استهداف، خطة تنفيذ ١٠ موديولات، مخطط Firestore كامل."
+          "heading": "الجاهز دلوقتي",
+          "detail": "١٥ إعلان × ٥ زوايا، ٨ عناوين، صفحة ١١ قسم، ٧ رسائل واتساب + ٣ اعتراضات، ٥ إيميلات، ٣ retargeting، ١٠ موديولات تنفيذ، مخطط Firestore."
         },
         {
-          "heading": "ايه اللي هيفضل أضعف بدون المدخلات دي",
-          "detail": "بدون أصول إثبات حقيقية، تموضع «تعالى شوف بنفسك» مش هيتقدم بالكامل في النصوص. بدون التسعير، عرض صفحة الهبوط بيستخدم عناصر نائبة. اتجاه الاستراتيجية معتمد — دقة الإنتاج معتمدة على الأربع مدخلات دول."
+          "heading": "اللي هيفضل أضعف بدونهم",
+          "detail": "بدون أصول إثبات: تموضع «تعالى شوف» مش هيتقدم بالكامل. بدون تسعير: الصفحة بعناصر نائبة. الاستراتيجية معتمدة — الإنتاج مستني الأربع مدخلات."
         }
       ],
       "sources": [
-        "docs/client_kb/MISSING_INPUTS.md",
-        "docs/active_state/README.md",
-        "docs/project/implementation-plan.md"
+        "MISSING_INPUTS.md",
+        "active_state/README.md",
+        "implementation-plan.md"
       ],
-      "speakerNotes": "End cleanly by separating what is approved from what is still blocking production. The four asks are numbered to make them actionable — Khaled and Islam should be able to leave the room with a concrete checklist. Be direct that proof assets are the single biggest gap: the entire positioning is about showing real operations, and we cannot do that without real content from the farm. If they push back on timing, negotiate which of the four inputs can come first so the team can start building in parallel.",
-      "cta": "ناخد التزام بموعد تسليم للأربع مدخلات المطلوبة."
+      "speakerNotes": "End cleanly by separating what is approved from what blocks production. The four asks are numbered — Khaled and Islam should leave with a concrete checklist. Proof assets are the biggest gap: the entire positioning is about showing real operations, and we cannot do that without real content from the farm. If they push back on timing, negotiate which input comes first so the team can start building in parallel.",
+      "cta": "ناخد التزام بموعد تسليم للأربع مدخلات"
     }
   ]
 }
