@@ -1,4 +1,4 @@
-﻿const fs = require("fs");
+const fs = require("fs");
 const path = require("path");
 
 const root = process.cwd();
@@ -8,6 +8,8 @@ const campaignFlowPath = path.join(root, "docs", "messaging", "campaign-flow-dra
 const adCopyPath = path.join(root, "docs", "messaging", "ad-copy-drafts.md");
 const whatsappEmailPath = path.join(root, "docs", "messaging", "whatsapp-email-copy.md");
 const projectContextPath = path.join(root, "docs", "project", "PROJECT_CONTEXT.md");
+const directStrategyPath = path.join(root, "docs", "strategy", "direct-response-strategy.md");
+const landingPagePath = path.join(root, "docs", "pages", "primary-landing-page-spec.md");
 const requirementsPath = path.join(root, "docs", "strategy", "PRESENTATION_REQUIREMENTS.md");
 const requiredFiles = [
   path.join(root, "apps", "presentation", "package.json"),
@@ -35,6 +37,8 @@ const fullRequiredSections = [
   "measurement",
   "decisions",
 ];
+
+const rawSourceLabelPattern = /(^docs\/|^apps\/|^clients\/|\\|\.md\b|\.json\b|\.tsx?\b|https?:\/\/|^[A-Z]:\\)/i;
 
 function fail(message) {
   console.error(`Presentation check failed: ${message}`);
@@ -72,9 +76,7 @@ function hasSubstantiveContent(filePath) {
 
 function getVisibleBodyText(slide) {
   const evidenceText = Array.isArray(slide.evidence)
-    ? slide.evidence
-        .map((item) => [item.heading, item.detail].filter(Boolean).join(" "))
-        .join(" ")
+    ? slide.evidence.map((item) => [item.heading, item.detail].filter(Boolean).join(" ")).join(" ")
     : "";
 
   return [
@@ -118,8 +120,11 @@ const arabicFirstDeck = configuredProject && /Core language:\s*Arabic/i.test(pro
 const sections = new Set();
 const competitorDetailCount = parsed.slides.filter((slide) => slide.section === "competitor-detail").length;
 const funnelSlideCount = parsed.slides.filter((slide) => slide.section === "funnel").length;
+const landingPageSlideCount = parsed.slides.filter((slide) => slide.section === "landing-page").length;
 const copySampleSlideCount = parsed.slides.filter((slide) => slide.section === "copy-samples").length;
+const contentOfferSlideCount = parsed.slides.filter((slide) => slide.section === "content-offer").length;
 const slidesMissingArabicBody = [];
+const slidesWithUnsafeSourceLabels = [];
 
 parsed.slides.forEach((slide, index) => {
   if (!slide.title) {
@@ -150,7 +155,18 @@ parsed.slides.forEach((slide, index) => {
   }
 
   if (configuredProject && (!Array.isArray(slide.sources) || slide.sources.length === 0)) {
-    fail(`slide ${index + 1} needs at least one source reference`);
+    fail(`slide ${index + 1} needs at least one internal source reference`);
+  }
+
+  if (configuredProject && (!Array.isArray(slide.sourceLabels) || slide.sourceLabels.length === 0)) {
+    fail(`slide ${index + 1} needs client-safe sourceLabels`);
+  }
+
+  if (Array.isArray(slide.sourceLabels)) {
+    const unsafeLabels = slide.sourceLabels.filter((label) => rawSourceLabelPattern.test(label));
+    if (unsafeLabels.length > 0) {
+      slidesWithUnsafeSourceLabels.push(`${slide.id || index + 1}:${unsafeLabels.join(", ")}`);
+    }
   }
 
   if (arabicFirstDeck) {
@@ -169,6 +185,10 @@ if (configuredProject) {
   });
 }
 
+if (slidesWithUnsafeSourceLabels.length > 0) {
+  fail(`sourceLabels must stay client-safe and cannot expose repo paths or raw files: ${slidesWithUnsafeSourceLabels.join(" | ")}`);
+}
+
 if (fs.existsSync(competitorScanPath)) {
   const competitorScan = readUtf8(competitorScanPath);
   const competitorCount = (competitorScan.match(/^## Competitor \d+: /gm) || []).length;
@@ -177,16 +197,39 @@ if (fs.existsSync(competitorScanPath)) {
   }
 }
 
-if (configuredProject && hasSubstantiveContent(campaignFlowPath) && funnelSlideCount < 3) {
-  fail(`expected at least 3 funnel slides for a configured client deck, found ${funnelSlideCount}`);
+if (configuredProject && hasSubstantiveContent(campaignFlowPath)) {
+  const campaignFlow = readUtf8(campaignFlowPath);
+  const documentedFlowCount = (campaignFlow.match(/^## Flow \d+:/gm) || []).length;
+  const expectedFunnelSlides = documentedFlowCount >= 4 ? 4 : 3;
+  if (funnelSlideCount < expectedFunnelSlides) {
+    fail(`expected at least ${expectedFunnelSlides} funnel slides for a configured client deck, found ${funnelSlideCount}`);
+  }
+}
+
+if (configuredProject && hasSubstantiveContent(landingPagePath)) {
+  const landingPageSpec = readUtf8(landingPagePath);
+  const pageSectionCount = (landingPageSpec.match(/^### \d+\./gm) || []).length;
+  if (pageSectionCount >= 8 && landingPageSlideCount < 2) {
+    fail(`expected at least 2 landing-page slides when the page spec has ${pageSectionCount} sections, found ${landingPageSlideCount}`);
+  }
 }
 
 if (
   configuredProject &&
-  (hasSubstantiveContent(adCopyPath) || hasSubstantiveContent(whatsappEmailPath)) &&
-  copySampleSlideCount < 2
+  hasSubstantiveContent(directStrategyPath) &&
+  /High-Value Content Offer/i.test(readUtf8(directStrategyPath)) &&
+  contentOfferSlideCount < 1
 ) {
-  fail(`expected at least 2 copy-samples slides when copy docs exist, found ${copySampleSlideCount}`);
+  fail("expected at least 1 content-offer slide when the strategy includes a high-value content offer section");
+}
+
+if (
+  configuredProject &&
+  hasSubstantiveContent(adCopyPath) &&
+  hasSubstantiveContent(whatsappEmailPath) &&
+  copySampleSlideCount < 3
+) {
+  fail(`expected at least 3 copy-samples slides when both ad and post-click copy docs exist, found ${copySampleSlideCount}`);
 }
 
 if (arabicFirstDeck && slidesMissingArabicBody.length > 0) {

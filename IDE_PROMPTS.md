@@ -1,4 +1,4 @@
-﻿# IDE Prompt Pack
+# IDE Prompt Pack
 
 Use these prompts inside any IDE agent after duplicating this starter for a real client.
 
@@ -191,6 +191,7 @@ Use these files as source of truth:
 - docs/messaging/messaging-bible.md
 - docs/messaging/ad-copy-drafts.md
 - docs/messaging/whatsapp-email-copy.md
+- docs/messaging/campaign-flow-draft.md
 - docs/offers/offer-architecture.md
 - docs/pages/primary-landing-page-spec.md
 - docs/strategy/strategy-qa.md
@@ -206,17 +207,21 @@ Use these files as source of truth:
 Do the following:
 - convert the approved strategy into the qafza-derived StoryOS webinar presentation structure
 - follow docs/strategy/PRESENTATION_REQUIREMENTS.md strictly; do not collapse full strategy sections into a summary deck
-- update docs/strategy/presentation-outline.md so each slide maps to a source doc
+- update docs/strategy/presentation-outline.md so each slide maps to source docs
 - update apps/presentation/content/slides.json with the actual deck content
 - include competitor overview plus one slide per named competitor when competitor research exists
-- include market gaps, opportunities, personas, environment, messaging, offer, landing-page structure, funnel stages, copy samples, measurement, and decisions-needed sections
-- include ad, headline, WhatsApp, email, or objection-handling samples when those docs exist
+- include the trust asset / content-offer layer when the strategy includes it
+- include market gaps, opportunities, personas, environment, messaging, offer, landing-page structure, landing-page proof / objections, funnel stages, copy samples, measurement, and decisions-needed sections
+- include ad angle boards, specimen hooks, WhatsApp, email, or objection-handling samples when those docs exist
 - keep the deck concise, high-trust, visual-first, and presentation-ready
 - preserve the existing qafza-derived StoryOS webinar app and only change content unless a structural improvement is required
 - do not create a new presentation frontend, a new slide system, or a different deck style from scratch
 - give every slide an image plan through image, imagePrompt, or visualDirection
 - use docs/project/PROJECT_CONTEXT.md for language control: titles/headings may stay English, but visible body content must follow the client's market language; for Arabic-first clients, write summary, bullets, evidence.detail, quotes, and CTA body copy in Arabic
-- keep every major claim tied to source docs or mark it as inference
+- keep every major claim tied to internal source docs or mark it as inference
+- keep raw internal provenance in sources
+- add client-safe sourceLabels to every strategic slide
+- do not expose raw internal repo paths or markdown filenames on the client-facing deck canvas
 - keep speaker notes practical for a live strategy presentation
 
 Deliver:
@@ -232,7 +237,7 @@ Rules:
 - if proof is weak, say so in the deck and notes
 - keep the deck publishable through GitHub Pages without adding heavy runtime dependencies
 - do not claim the deck is complete if image generation was skipped or blocked
-- do not publish or deploy the deck unless `npm run presentation:release:check` passes
+- do not publish or deploy the deck unless npm run presentation:release:check passes
 ```
 ## Prompt 6: Build-Ready Implementation Plan
 ```text
