@@ -1,4 +1,4 @@
-# Admireworks Direct Response Strategy Playbook
+﻿# Admireworks Direct Response Strategy Playbook
 
 This is the canonical structure for strategy creation in client repos derived from this starter.
 
@@ -8,6 +8,7 @@ Create strategy that is:
 - market-aware
 - conversion-focused
 - operational enough to build from
+- presentation-ready without collapsing into a shallow summary
 
 ## Core Rule
 Do not create strategy directly from a brief and one transcript if critical market context is still missing.
@@ -44,6 +45,8 @@ Complete the research layer first, then synthesize.
 
 ## Presentation Rule
 After the written strategy is approved:
-- use `strategy-kit/STRATEGY-SYSTEM.md`
-- generate the visual presentation build
+- generate a chaptered visual deck, not a summary memo
+- begin with the review path, then move through analysis, strategy, funnel / execution, creative / assets, and decisions
 - keep presenter and client modes tied to approved strategy only
+- show client-safe evidence labels only; keep raw internal provenance internal
+- make the deck visual-first, premium, and documentary / editorial in tone

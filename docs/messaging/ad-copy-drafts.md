@@ -1,28 +1,27 @@
-# Basseqat Ad Copy — 5 Angles
+# Basseqat Ad Copy Drafts — Per-Persona Hooks + Revised Angles
+*Last updated: March 22, 2026 — Revised post-strategy session March 17, 2026*
 
 ## Ad Copy Rules
-- Language: Egyptian Arabic only
-- Tone: Calm, credible, serious, warm
-- Forbidden: Guaranteed returns, urgency pressure, hype language, translated-English phrasing
-- CTA: Click-to-WhatsApp (primary) or landing page (secondary)
-- Compliance: No financial promises. No "ارباح مضمونة" language.
+- **Language:** Egyptian Arabic for hooks/body copy; فصحى acceptable for brand awareness videos only
+- **Tone:** Calm, credible, serious, warm. Never pushy.
+- **Forbidden:** Guaranteed returns, urgency pressure, hype language ("فرصة العمر", "ارباح مضمونة"), translated-English phrasing
+- **Hook principle:** ALWAYS lead with the PERSONA'S PROBLEM — not with the product description
+- **CTA:** Click-to-WhatsApp (primary) or landing page (secondary)
+- **Visuals:** REAL photos of Khaled and the farm ONLY — no AI-generated faces or farm images
+- **Compliance:** No financial promises. No "ارباح مضمونة" language.
 
 ---
 
-## Angle 1: Financial Anxiety (Pain Aware)
+## PERSONA A — Working Expat (35-50)
+*Core fear: "سنين الغربة دي راحت فين؟"*
+*Platform: Google Search, YouTube pre-roll, Facebook retargeting*
 
-### Variant 1A — Short
-**Primary text:**
-فلوسك بتأكل نفسها كل يوم.
-والبنك عمره ما هيخليها تكبر.
+### A1 — Financial Anxiety Hook (Search Ad)
+**Headline 1:** فلوسك بتأكل نفسها — وسنين الغربة تستحق أكتر
+**Headline 2:** مشروع نخيل حقيقي في مصر — موثق وبابه مفتوح
+**Description:** بَسّقات مش هتوعدك بأرقام. هتوريك مشروع حقيقي — أرض جاهزة، نخيل كبّر، وهيكل قانوني واضح. ابدأ محادثة.
 
-فيه طريقة تانية — مشروع زراعي حقيقي في مصر.
-مش وعود. عمليات موثقة.
-
-ابدأ محادثة واسأل أي سؤال.
-**CTA:** ابدأ محادثة على الواتساب
-
-### Variant 1B — Long
+### A2 — Long Facebook/YouTube Body Copy
 **Primary text:**
 كل يوم بيعدّي وأنت بتشتغل في السعودية — وفلوسك اللي حوّشتها بتقف مكانها.
 
@@ -30,38 +29,70 @@
 البنك مش بيحميها.
 والعقار محتاج مبلغ كبير ووقت.
 
-بَسّقات مشروع نخيل تمور حقيقي في مصر — بعمليات موثقة — وبيقولك: تعالى شوف بنفسك قبل ما تقرر.
+بَسّقات مشروع نخيل تمور في مصر — بعمليات موثقة، بنية تحتية جاهزة، وهيكل قانوني واضح (شركة مساهمة).
+مفيش وعود فاضية. فيه شغل حقيقي وباب مفتوح تيجي تشوف.
 
-مفيش وعود فاضية.
-فيه شغل حقيقي.
-
-ابدأ محادثة على الواتساب — واسأل أي سؤال.
+ابدأ محادثة على الواتساب واسأل أي سؤال.
 **CTA:** عايز أفهم أكتر
 
-### Variant 1C — Question Hook
+### A3 — Question Hook (Cold Awareness)
 **Primary text:**
-بتشتغل بره من 10 سنين — وفلوسك لسه مش بتشتغل معاك؟
+بتشتغل بره من ١٠ سنين — وفلوسك لسه مش بتشتغل معاك؟
 
-افهم إزاي المشاركة الزراعية في نخيل التمور ممكن تكون خطوتك الجاية.
+مش لازم تفضل كده.
+بَسّقات — مشروع نخيل حقيقي في مصر، موثق، وملكيتك فيه قانونية وواضحة.
 
-بَسّقات — مشروع حقيقي. توثيق حقيقي. وباب مفتوح تسأل أي سؤال.
+ابدأ محادثة واسأل أي سؤال — مفيش ضغط ومفيش استعجال.
 **CTA:** ابدأ محادثة
 
 ---
 
-## Angle 2: Trust / Myth-Busting
+## PERSONA B — Near Retirement (50-60)
+*Core fear: "هرجع مصر بكام؟"*
+*Platform: Google Search, GDN, YouTube*
 
-### Variant 2A — Short
+### B1 — Retirement Anxiety Hook (Search Ad)
+**Headline 1:** هرجع مصر بكام؟ — فكّر في الموضوع دلوقتي
+**Headline 2:** مشروع نخيل موثق — ملكية قانونية حقيقية
+**Description:** لو قربت من التقاعد وعايز حاجة حقيقية ورايا — بَسّقات بيوريك كل حاجة قبل ما تسألك تقرر. ابدأ محادثة.
+
+### B2 — Scenario Body Copy
 **Primary text:**
-كل اللي شفتهم بيوعدوا بأرقام — وبعدين بيختفوا.
+لما هيبقى عندك ٦٠ سنة...
+هتكون فين؟
+فلوسك هتكون فين؟
 
-بَسّقات مش هتوعدك بحاجة.
-بس هتوريك المشروع — وتسيبك تقرر.
+السؤال ده لازم تسأله لنفسك دلوقتي — مش بعدين.
 
-ابدأ محادثة واسأل أي سؤال.
-**CTA:** شوف بنفسك
+بَسّقات مشروع نخيل تمور حقيقي — المزرعة موجودة، النخيل زُرع من ٤ سنين، والهيكل القانوني بيضمن إن ملكيتك حقيقية — مش مجرد كلام.
 
-### Variant 2B — Long
+ابدأ محادثة واسأل. مش هنضغط عليك.
+**CTA:** ابدأ محادثة
+
+### B3 — Away-from-Home Frame
+**Primary text:**
+"أنا بشتغل في السعودية من ١٥ سنة.
+بحوّش. بحوّل. بصرف.
+بس لو بصيت ورايا — فلوسي فين؟"
+
+لو بتسأل نفسك نفس السؤال — يبقى الوقت إنك تعرف عن بَسّقات.
+
+لا عقار محتاج ملايين. لا أرقام وعود.
+مشروع نخيل بتوثيق حقيقي وملكية قانونية — وبابه مفتوح تيجي تشوف.
+**CTA:** عايز أفهم أكتر
+
+---
+
+## PERSONA C — Serious Investor (Skeptic)
+*Core fear: "مين هثق فيه؟ كل الكلام وعود فاضية"*
+*Platform: Google Search, YouTube Investment Channels, Facebook retargeting*
+
+### C1 — Skeptic Hook (Search Ad)
+**Headline 1:** وعود فاضية كتير — فيه حاجة مختلفة
+**Headline 2:** هيكل قانوني + بنية تحتية جاهزة + باب مفتوح
+**Description:** بَسّقات مش هتوعدك بأرقام. هتوريك أرض جاهزة، نخيل ٤ سنين، وشركة مساهمة بملكية حقيقية. تعالى شوف.
+
+### C2 — Myth-Busting Body Copy
 **Primary text:**
 "٥٠٪ عائد سنوي!"
 "مشروع بدون مخاطر!"
@@ -70,165 +101,111 @@
 سمعت الكلام ده قبل كده — وعارف إنه فاضي.
 
 بَسّقات عملت حاجة مختلفة:
-مش بتوعدك بأرقام.
-بتوريك العمليات.
-بتديك التوثيق.
-وبتقولك: تعالى زور المزرعة بنفسك.
+- مش بتوعدك بأرقام — بتوريك العمليات
+- مش بس "شفافية" — فيه هيكل قانوني (شركة مساهمة) وملكية حقيقية
+- مش بتبدأ من الصفر — الأرض جاهزة والنخيل كبير من ٤ سنين
 
-المشروع الحقيقي مش محتاج يبالغ. محتاج بس يوريك.
+المشروع الحقيقي مش محتاج يبالغ — محتاج بس يوريك.
 
-ابدأ محادثة على الواتساب — واسأل أي حاجة.
+ابدأ محادثة على الواتساب واسأل أي حاجة.
 **CTA:** عايز أفهم الفرق
 
-### Variant 2C — Statement Hook
+### C3 — Statement Hook
 **Primary text:**
 اللي يقولك "ارباح مضمونة" — هو أول واحد تشك فيه.
 
 بَسّقات مش بتضمنلك أرقام.
-بتضمنلك شفافية.
+بتضمنلك شفافية — وهيكل قانوني — وأرض تيقدر تزورها.
 
 مشروع نخيل حقيقي — موثق — وبابه مفتوح.
 **CTA:** ابدأ محادثة
 
 ---
 
-## Angle 3: Founder Authority
+## Angle: Founder Authority (Khaled Direct-to-Camera)
+*Use REAL video footage / photos of Khaled ONLY — no AI*
 
-### Variant 3A — Video Script (Khaled Speaking to Camera)
+### F1 — Video Script (Short, 30-45 sec)
 **Script:**
-"أنا خالد نصر الدين — مؤسس بَسّقات.
+"أنا خالد نصر الدين — وده مشروعي.
 
 مش هقعد أوعدك بأرقام — ده مش أسلوبنا.
 
-أنا عايز أوريك المشروع. أوريك الأرض. أوريك العمليات.
+اللي هعمله: أوريك الأرض. أوريك النخيل. أوريك العمليات.
 وبعدين أنت تقرر.
 
-لو عايز تفهم أكتر — ابدأ محادثة معانا على الواتساب.
+المشروع جاهز — والهيكل القانوني موجود — وباب المزرعة مفتوح.
 
-أنا موجود — والفريق موجود — وأي سؤال هنجاوبك عليه."
+لو عايز تفهم أكتر — ابدأ محادثة معانا على الواتساب. أنا وفريقي موجودين."
 **CTA:** ابدأ محادثة مع خالد
 
-### Variant 3B — Short Authority Post
+### F2 — Short Authority Post
 **Primary text:**
 أنا صاحب المشروع — ومش هستخبى وراء إعلان.
 
 بَسّقات — مشروع نخيل حقيقي أنا وراه بالاسم والوش.
+أرض جاهزة. نخيل كبير. هيكل قانوني واضح.
 
 عايز تعرف أكتر؟ ابدأ محادثة على الواتساب.
 **CTA:** ابدأ محادثة
 
-### Variant 3C — Accountability Frame
-**Primary text:**
-لو المشروع وهمي — هعمل فيديو وأقول أنا اسمي ايه؟
-لو المشروع غلط — هقولك تعالى شوف المزرعة؟
-
-بَسّقات — أنا وراه. بالاسم. بالوش. بالمكان.
-**CTA:** شوف بنفسك
-
 ---
 
-## Angle 4: Process / Mechanism
+## Angle: Process / Behind the Scenes
+*Focus on "no competitor shows this" market gap*
 
-### Variant 4A — Step-by-Step
+### P1 — Behind the Scenes
+**Primary text:**
+مش هنقولك "استثمر وريّح."
+
+هنوريك:
+— الأرض فين (الواحة الجديدة، مصر)
+— الري بيشتغل إزاي
+— النخيل اتزرع إمتى وبقاله قد ايه
+— التوثيق بيتبعت إزاي كل فترة
+
+المشروع الحقيقي — بيتشاف. مش بيتقال.
+**CTA:** شوف العملية
+
+### P2 — Step-by-Step Process
 **Primary text:**
 إزاي بتشارك في بَسّقات؟
 
 ١. ابدأ محادثة واسأل أي سؤال
-٢. شوف التوثيق وافهم العملية
-٣. زور المزرعة — أو اتفرج على جولة افتراضية
+٢. شوف التوثيق وافهم الهيكل القانوني
+٣. زور المزرعة — أو اتفرج على الجولة الافتراضية
 ٤. خد قرارك وأنت فاهم كل حاجة
 
 مفيش ضغط. مفيش استعجال. فيه وضوح.
 **CTA:** ابدأ الخطوة الأولى
 
-### Variant 4B — Behind the Scenes
-**Primary text:**
-مش هنقولك "استثمر وريّح."
-
-هنوريك:
-— الأرض فين
-— الري بيشتغل إزاي
-— النخيل اتزرع إمتى
-— التوثيق بيتبعت إزاي
-
-المشروع الحقيقي — بيتشاف. مش بيتقال.
-**CTA:** شوف العملية
-
-### Variant 4C — Documentation Focus
-**Primary text:**
-كل خطوة في بَسّقات — موثقة.
-
-مش كلام — صور. تقارير. تواريخ.
-
-عايز تشوف؟ ابدأ محادثة.
-**CTA:** ابدأ محادثة
-
 ---
 
-## Angle 5: Problem Scenario (UGC-Style)
-
-### Variant 5A — "لما هيبقى عندي ٦٠ سنة" (When I'm 60)
-**Script/text (actor or Khaled):**
-"لما هيبقى عندي ٦٠ سنة...
-هكون فين؟
-هعمل ايه؟
-فلوسي هتكون فين؟"
-
-السؤال ده لازم تسأله لنفسك دلوقتي — مش بعدين.
-
-بَسّقات — مشروع زراعي حقيقي ممكن يكون جزء من خطتك.
-
-ابدأ محادثة واسأل.
-**CTA:** ابدأ محادثة
-
-### Variant 5B — "أنا بشتغل بره من ١٥ سنة" (I've been working abroad for 15 years)
-**Primary text:**
-"أنا بشتغل في السعودية من ١٥ سنة.
-بحوّش. بحوّل. بصرف.
-بس لو بصيت ورايا — فلوسي فين؟"
-
-لو بتسأل نفسك نفس السؤال ده — يبقى الوقت إنك تعرف عن بَسّقات.
-
-مشروع نخيل تمور حقيقي — بتوثيق حقيقي — ومش بيطلب منك تقرر قبل ما تفهم.
-**CTA:** عايز أفهم أكتر
-
-### Variant 5C — "خايف أرجع مصر" (Afraid to return)
-**Primary text:**
-"خايف أرجع مصر ومعييش حاجة ورايا."
-
-السؤال مش "أستثمر ولا لأ" —
-السؤال: "أنا هثق في مين؟"
-
-بَسّقات بتقولك: متثقش في كلام. تعالى شوف.
-**CTA:** شوف بنفسك
-
----
-
-## Headlines Set
+## Headlines Bank
 
 | # | Headline (Arabic) | English Translation | Use For |
 |---|---|---|---|
 | H1 | مشروع زراعي حقيقي — مش كلام | A real agricultural project — not words | Hero / general |
 | H2 | بَسّقات بتوريك قبل ما تسألك | Basseqat shows before asking | Brand promise |
-| H3 | فلوسك بتأكل نفسها — فيه طريقة تانية | Your money is eating itself — there's another way | Pain |
-| H4 | اللي يقولك "مضمون" — اسأل نفسك ليه | If they say "guaranteed" — ask yourself why | Trust |
-| H5 | تعالى شوف بنفسك | Come see for yourself | CTA |
-| H6 | مش بنوعدك — بنوريك | We don't promise — we show | Differentiation |
-| H7 | ابدأ محادثة واسأل أي سؤال | Start a conversation and ask anything | Soft CTA |
-| H8 | لما هيبقى عندك ٦٠ سنة — هتكون فين؟ | When you're 60 — where will you be? | Scenario |
+| H3 | فلوسك بتأكل نفسها — وسنين الغربة تستحق أكتر | Your money is eating itself — your years abroad deserve more | Persona A pain |
+| H4 | هرجع مصر بكام؟ — فكّر دلوقتي | Return to Egypt with what? — think now | Persona B pain |
+| H5 | وعود فاضية كتير — فيه حاجة مختلفة | Too many empty promises — something different exists | Persona C pain |
+| H6 | ملكية حقيقية — مش مجرد كلام | Real ownership — not just words | Legal USP |
+| H7 | الأرض جاهزة والنخيل كبير — مش بتبدأ من الصفر | Land ready, trees grown — you're not starting from scratch | Infrastructure USP |
+| H8 | اللي يقولك "مضمون" — اسأل نفسك ليه | If they say "guaranteed" — ask yourself why | Trust/skeptic |
+| H9 | تعالى شوف بنفسك | Come see for yourself | Open invitation CTA |
+| H10 | مش بنوعدك — بنوريك | We don't promise — we show | Differentiation |
 
 ---
 
 ## Copy Review Status
 
-| Angle | Variants | Rubric Applied | Status |
-|---|---|---|---|
-| Angle 1 — Financial Anxiety | 3 (1A, 1B, 1C) | Pending client review | Draft |
-| Angle 2 — Trust / Myth-Busting | 3 (2A, 2B, 2C) | Pending client review | Draft |
-| Angle 3 — Founder Authority | 3 (3A, 3B, 3C) | Pending client review | Draft |
-| Angle 4 — Process / Mechanism | 3 (4A, 4B, 4C) | Pending client review | Draft |
-| Angle 5 — Problem Scenario | 3 (5A, 5B, 5C) | Pending client review | Draft |
+| Angle | Variants | Status |
+|---|---|---|
+| Persona A — Working Expat | A1, A2, A3 | Draft — revised per March 17 session |
+| Persona B — Near Retirement | B1, B2, B3 | Draft — revised per March 17 session |
+| Persona C — Serious Investor | C1, C2, C3 | Draft — revised per March 17 session |
+| Founder Authority (Khaled) | F1, F2 | Draft — REAL video/photo required |
+| Process / Behind the Scenes | P1, P2 | Draft — real farm footage required |
 
-**Total variants:** 15 ad copy pieces + 8 headlines = 23 creative elements
-
-**Source:** Ad-copy-review framework, messaging-bible, customer-language-bank, direct-response strategy
+**Source:** March 17 strategy session (Khaled corrections), messaging-bible v2, customer-language-bank, direct-response strategy

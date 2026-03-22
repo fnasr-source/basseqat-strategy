@@ -7,7 +7,7 @@ Use these prompts inside any IDE agent after duplicating this starter for a real
 2. Complete `docs/project/PROJECT_PROFILE.md` before planning strategy or implementation.
 3. Add all available client inputs into `docs/client_kb/`.
 4. Run `npm run research:check` if research APIs may be used. Proceed with external research only after the automated stack passes.
-5. If a strategy presentation is required, plan to deliver it in `apps/presentation/` after the written strategy is approved.
+5. If a strategy presentation is required, plan to deliver it in `apps/presentation/` after the written strategy is approved, using the chaptered Admireworks deck rhythm rather than a summary deck.
 6. Read these files first:
    - `docs/project/PLACEHOLDER_GUIDE.md`
    - `docs/project/PROJECT_PROFILE.md`
@@ -207,8 +207,19 @@ Use these files as source of truth:
 Do the following:
 - convert the approved strategy into the qafza-derived StoryOS webinar presentation structure
 - follow docs/strategy/PRESENTATION_REQUIREMENTS.md strictly; do not collapse full strategy sections into a summary deck
+- build the deck as a chaptered strategy review, not a long continuous memo
 - update docs/strategy/presentation-outline.md so each slide maps to source docs
 - update apps/presentation/content/slides.json with the actual deck content
+- start by defining the chapter rhythm:
+  - cover / decision frame
+  - agenda / review path
+  - current situation + objective frame
+  - core challenge / market tension
+  - analysis chapter
+  - strategy chapter
+  - funnel / execution chapter
+  - creative / asset chapter
+  - measurement + decisions close
 - include competitor overview plus one slide per named competitor when competitor research exists
 - include the trust asset / content-offer layer when the strategy includes it
 - include market gaps, opportunities, personas, environment, messaging, offer, landing-page structure, landing-page proof / objections, funnel stages, copy samples, measurement, and decisions-needed sections
@@ -221,8 +232,9 @@ Do the following:
 - keep every major claim tied to internal source docs or mark it as inference
 - keep raw internal provenance in sources
 - add client-safe sourceLabels to every strategic slide
-- do not expose raw internal repo paths or markdown filenames on the client-facing deck canvas
+- do not expose raw internal repo paths, markdown filenames, or raw document references on the client-facing deck canvas or in visible body copy
 - keep speaker notes practical for a live strategy presentation
+- make chapter-divider slides more visual and less text-heavy than standard content slides
 
 Deliver:
 - a complete presentation deck in apps/presentation/content/slides.json
@@ -239,6 +251,7 @@ Rules:
 - do not claim the deck is complete if image generation was skipped or blocked
 - do not publish or deploy the deck unless npm run presentation:release:check passes
 ```
+
 ## Prompt 6: Build-Ready Implementation Plan
 ```text
 Using the approved docs and `docs/project/PROJECT_PROFILE.md` as source of truth, prepare the implementation plan only for the modules marked as included now:
